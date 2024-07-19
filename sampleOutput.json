@@ -1,0 +1,138 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles"
+: [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "Hosts France beat All Blacks for perfect World Cup start",
+    "description": "France make the perfect start on their quest for a first Rugby World Cup title as they beat three-time champions New Zealand to delight the Stade de France in Paris.",
+    "url": "http://www.bbc.co.uk/sport/rugby-union/66758475",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/125CE/production/_131041257_penaud_getty.jpg",
+    "publishedAt": "2023-09-09T03:52:18.4037102Z",
+    "content": "Damian Penaud, whose father Alain played 32 for France between 1992 and 2000, scored France's first try as the hosts reeled in the All Blacks\r\n<table><tr><th>Rugby World Cup: France v New Zealand</th… [+8020 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Morocco earthquake: At least 296 dead after powerful tremors",
+    "description": "There is panic in Marrakesh and other cities after a 6.8 magnitude quake hits the country.",
+    "url": "http://www.bbc.co.uk/news/live/world-africa-66760889",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-09-09T03:52:17.169644Z",
+    "content": "Earthquake damage in MarrakeshImage caption: Earthquake damage in Marrakesh\r\n\"We felt a very violent tremor, and I realised it was an earthquake,\" Abdelhak El Amrani, a 33-year-old in Marrakesh, told… [+343 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "G20: India hosts summit with Putin and Xi absent",
+    "description": "Some of the world's most powerful leaders are in India's capital Delhi for the meeting.",
+    "url": "http://www.bbc.co.uk/news/live/world-66724117",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-09-09T03:22:20.2630294Z",
+    "content": "Hello and welcome to the BBCs live coverage of the G20 summit happening this weekend in Indias capital, Delhi. \r\nWorld leaders, including Joe Biden, Rishi Sunak and Emmanuel Macron, are in town to di… [+706 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Georgia grand jury recommended charging three US senators",
+    "description": "But prosecutors decided not to indict Lindsey Graham and others on election charges alongside Donald Trump.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66755825",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1D31/production/_131037470_5fea3d168119ccf0009581874224411082b5c9fe0_250_4800_27011000x563.jpg",
+    "publishedAt": "2023-09-09T02:52:17.2948341Z",
+    "content": "Media caption, Watch: 'I think I made a responsible decision,' says Lindsey Graham\r\nA Georgia special grand jury recommended charging one current and two former US senators and 18 other allies of ex-… [+5429 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Eddie Irizarry: Philadelphia officer charged with fatal shooting of motorist",
+    "description": "Eddie Irizarry was killed by police officer Mark Dial, who is now charged with murder.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66758436",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13636/production/_131041497_microsoftteams-image-42.png",
+    "publishedAt": "2023-09-09T01:37:16.7640613Z",
+    "content": "Media caption, Watch: Bodycam reveals new details of fatal police shooting in Philadelphia\r\nA Philadelphia police officer has been charged with murder after footage showed him fatally shooting a 27-y… [+4151 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Stunning lightning at the heart of Hurricane Lee",
+    "description": "US Air Force video captures the dramatic display in the eye of the storm raging in the Atlantic",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66677984",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CCBE/production/_131041425_p0gckv5w.jpg",
+    "publishedAt": "2023-09-08T23:52:15.0446373Z",
+    "content": "Stunning lightning at the heart of Hurricane Lee. Video, 00:00:32Stunning lightning at the heart of Hurricane Lee"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mark Meadows: Trump aide fails to have Georgia case moved",
+    "description": "The ruling against Mark Meadows means the case by Fulton County prosecutors survived its first test.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66759234",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11372/production/_131041507_gettyimages-1620723958-1.jpg",
+    "publishedAt": "2023-09-08T23:37:16.3261594Z",
+    "content": "A US judge has denied a request from Mark Meadows, a Trump aide charged in the Georgia election meddling probe, to move his case to a federal court."
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Pennsylvania prison guard fired over Danelo Cavalcante escape",
+    "description": "The officer apparently did not notice Danelo Cavalcante \"crab walking\" between two walls to get away.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66758766",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/101E0/production/_130961066_inmate_976cbs.png",
+    "publishedAt": "2023-09-08T20:52:19.746786Z",
+    "content": "The Pennsylvania prison guard who was on duty when a convicted murderer escaped has been fired. \r\nThe guard apparently did not notice Danelo Cavalcante, 34, \"crab walking\" between two walls to escape… [+235 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'Bear cam' viewers save stranded hiker in Alaska",
+    "description": "The hiker stopped right in front of the camera and mouthed the words \"help\" and \"lost\".",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66757169",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B971/production/_131037474_gettyimages-1614396111.jpg",
+    "publishedAt": "2023-09-08T19:37:16.6688263Z",
+    "content": "A lost hiker was saved in an Alaskan national park this week thanks to the vigilant viewers who were watching a bear cam livestream. \r\nTalking to the camera on Dumpling Mountain, the hiker appeared t… [+2380 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Daniel Khalife: Sighting of escaped prisoner reported to Met Police",
+    "description": "Mr Khalife has been missing since escaping from HMP Wandsworth in London on Wednesday morning.",
+    "url": "http://www.bbc.co.uk/news/uk-66756233",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17825/production/_131039269_hkalife-blur.jpg",
+    "publishedAt": "2023-09-08T19:22:24.4190964Z",
+    "content": "A sighting of escaped terror suspect Daniel Khalife is being investigated by the Metropolitan Police.\r\nMr Khalife was reportedly seen walking away from the BidFood van near the Wandsworth roundabout,… [+3270 chars]"
+    }
+    ]
+    }
+    
